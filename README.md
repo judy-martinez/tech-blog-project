@@ -42,3 +42,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Link to Deployed Application
 https://judy-martinez.github.io/tech-blog-project/
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/93234615/154905646-c7837981-c604-4695-9d74-65a252a46ae0.png)
