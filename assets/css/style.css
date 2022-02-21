@@ -20,6 +20,10 @@
     line-height: 1.5;
     font-size: 16px;
   }
+
+  a {
+    color: whitesmoke;
+  }
   
   h1,
   h2,
